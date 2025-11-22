@@ -1,25 +1,17 @@
-<h1 align="center">Welcome, I'm Valen Lang from Indonesia 🇮🇩</h1>
-<h3 align="center">High School Student & Aspiring Full-Stack Developer</h3>
+<h1 align="center">Welcome, I'm Valen Lang from Jakarta, Indonesia 🇮🇩</h1>
+<h3 align="center">High School Student & Aspiring Full-Stack / ML Engineer</h3>
 
-- 🔭 I’m currently working on learning web and app development and building small projects for practice.  
-- 🌱 I’m currently learning **React, Node.js, TypeScript, and basic AI/ML concepts**  
-- 📫 How to reach me: **valen.lang@example.com** (replace with your email)
+- 🔭 I’m currently working on **16 B2B SaaS projects** as part of learning and building experience.  
+- 🌱 I’m currently learning **Full-Stack Development, React, Node.js, TypeScript, Python, and Machine Learning**.  
+- 📫 How to reach me: **valenlangia@gmail.com**  
 
 ---
 
 ### 🏆 Achievements & Projects
 
-- Exploring and experimenting with small web & mobile projects to build portfolio.  
-- Planning to invest in property projects to learn financial and business management.  
-- Participated in school programming projects and coding competitions.  
-- Learning full-stack development through self-study and tutorials.  
-
----
-
-### 📚 Latest Projects / Work
-- **Mini E-commerce Web App** – Built with React & Node.js  
-- **Simple Chat App** – Using Firebase & React  
-- **Personal Portfolio Website** – Showcasing projects and skills  
+- Exploring full-stack and ML projects to build my portfolio.  
+- Currently planning and developing small SaaS projects for hands-on experience.  
+- [Project placeholders] – To be updated as I complete projects.  
 
 ---
 
@@ -46,6 +38,25 @@
               <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
               </a>
+              <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>Machine Learning / AI</td>
+          <td>
+            <p align="left">
+              <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+              </a>
+              <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+              </a>
+              <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+              </a>
             </p>
           </td>
         </tr>
@@ -53,11 +64,11 @@
           <td>Databases</td>
           <td>
             <p align="left">
-              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-              </a>
               <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+              </a>
+              <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
               </a>
             </p>
           </td>
@@ -72,6 +83,9 @@
               <a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
               </a>
+              <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+              </a>
             </p>
           </td>
         </tr>
@@ -82,14 +96,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/valen-lang" target="blank">
+    <a href="https://linkedin.com/in/valenlang/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://github.com/valen-lang" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-    </a>
-    <a href="https://www.kaggle.com/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
     </a>
 </p>
 
