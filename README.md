@@ -99,9 +99,7 @@
     <a href="https://linkedin.com/in/valenlang/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://github.com/valen-lang" target="blank">
+    <a href="https://github.com/deloney-web" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     </a>
 </p>
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deloney-web&show_icons=true&locale=en&theme=calm" alt="deloney-web" /></p>
